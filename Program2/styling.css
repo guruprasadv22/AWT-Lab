@@ -1,0 +1,44 @@
+.table-container {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  padding: 10px;
+}
+
+/* table {
+  margin-left: auto;
+  margin-right: auto;
+  border: solid #000;
+  border-width: 1px 1px 1px 1px;
+}
+
+
+
+th,
+td {
+  border: solid #000;
+  border-width: 1px 1px 1px 1px;
+} */
+
+caption {
+  padding-bottom: 10px;
+}
+
+.footer {
+  text-align: justify;
+  position: relative;
+  padding-top: 200px;
+}
+
+table,
+tr,
+td {
+  border: solid black;
+  width: 50%;
+  text-align: center;
+  border-collapse: collapse;
+  background-color: lightblue;
+  margin: auto;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styling.css" />
+  </head>
+  <body>
+    <caption>
+      Square and Cubes of Numbers
+    </caption>
+
+    <!-- <style>
+            
+            body{
+                text-align: center;
+                padding-bottom: 20px;
+            }
+
+            table, tr, td{
+                border: solid black;
+                width: 50%;
+                text-align: center;
+                border-collapse: collapse;
+                background-color: lightblue;
+                margin: auto;
+            }
+
+        </style> -->
+
+    <script>
+      document.write(
+        "<table> <tr> <th> Number </th> <th> Square </th>  <th> Cube </th>"
+      );
+      for (var n = 0; n <= 10; n++)
+        document.write(
+          "<tr><td>" +
+            n +
+            "</td><td>" +
+            n * n +
+            "</td><td>" +
+            n * n * n +
+            "</td></tr>"
+        );
+      document.write("</table>");
+    </script>
+  </body>
+</html>
