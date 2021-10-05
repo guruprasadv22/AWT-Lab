@@ -13,3 +13,4 @@ Head over to the [Home page](https://guruprasadv22.github.io/AWT-Lab/)
 | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | [Program1](https://github.com/guruprasadv22/AWT-Lab/tree/main/Program1) | Demonstrate usage of basic HTML tags while building static shopping cart website |
 | [Program2](https://github.com/guruprasadv22/AWT-Lab/tree/main/Program2) | Creating tables with HTML                                                        |
+| [Program3](https://github.com/guruprasadv22/AWT-Lab/tree/main/Program3) | Using regex to validate the input                                                |
